@@ -109,3 +109,10 @@ a{
 .logo:hover{
     cursor: pointer;
 }
+
+.video_youtube{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: nowrap;
+}
